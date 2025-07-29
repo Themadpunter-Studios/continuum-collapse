@@ -1,4 +1,6 @@
-# continuum-collapse
+# Continuum Collapse
+[Play Now](Continuum Collapse.html)
+
 Appel: Continuum Collapse is a WIP Appel mod. Inspired by SMG2: Galactic Purgatory, Continuum Collapse explores the adventures of Appel after the timeline collapses. 
 
 Appel wakes up at the End of Time, where everything in the entire timeline falls after its collapse. Doors in the End of Time lead to levels. Some are fairly easy, and some are difficult, but none of them are enough. He explores more, and finds that each level has 2 harder difficulties, as well as each level having a difficult subarea.
