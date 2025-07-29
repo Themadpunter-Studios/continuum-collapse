@@ -13,7 +13,7 @@ All main levels have A, B, and C sides.
 2. Coral Cavern Galaxy
 3. Paradox Point Galaxy
 4. Shadowfall Summit Galaxy
-5. Megamassive Galaxy
+5. Demiplane Galaxy
 6. Minislider Galaxy
 7. Thunder Terrain Galaxy
 8. Pandemonium Peak Galaxy
@@ -26,7 +26,7 @@ Each of these levels has a Cosmic Appel race in them that you can do to get an e
 2. Dark Descent Galaxy
 3. Paradox Pinnacle Galaxy
 4. Deepfreeze Galaxy
-5. Demiplane Galaxy
+5. Megamassive Galaxy
 6. Freedomfall Galaxy
 7. Lightning Leap Galaxy
 8. Pandemonium Paragon Galaxy
@@ -46,5 +46,6 @@ as well Red Apples, and your death count.
 
 ## How to Play Developer Build
 Download the file with .sb3 at the end. Open it in https://turbowarp.org. Click File > Load from your Computer, and select the sb3 file. Allow unsandboxed access to all extensions.
+
 ## More Info
 Levels Info: https://docs.google.com/spreadsheets/d/1FlLekEbyIeI1VKpiNRLw_B7dObIkvsIJKhy2HFpo-1U/edit?usp=sharing 
