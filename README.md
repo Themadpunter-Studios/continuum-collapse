@@ -1,5 +1,5 @@
 # Continuum Collapse
-[Play Now](Continuum Collapse.html)
+[Play Now](Continuum%20Collapse.html)
 
 Appel: Continuum Collapse is a WIP Appel mod. Inspired by SMG2: Galactic Purgatory, Continuum Collapse explores the adventures of Appel after the timeline collapses. 
 
