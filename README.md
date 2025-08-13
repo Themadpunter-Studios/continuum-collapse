@@ -51,3 +51,10 @@ Download the file with .sb3 at the end. Open it in https://turbowarp.org. Click 
 
 ## More Info
 Levels Info: https://docs.google.com/spreadsheets/d/1FlLekEbyIeI1VKpiNRLw_B7dObIkvsIJKhy2HFpo-1U/edit?usp=sharing 
+
+## Credits
+* Celeste for A, B, C-Side mechanics
+* TheGrassyGuys for Paradox Pinnacle name and Crystalline Peaks inspiration
+* Burtha Madness by bringupyourpost for Demiplane Galaxy inspiration
+* Nintendo for various music
+* Griffpatch for Appel
