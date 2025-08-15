@@ -16,7 +16,7 @@ All main levels have A, B, and C sides.
 3. Paradox Point Galaxy
 4. Shadowfall Summit Galaxy
 5. Demiplane Galaxy
-6. Minislider Galaxy
+6. Industrial Galaxy
 7. Thunder Terrain Galaxy
 8. Pandemonium Peak Galaxy
 9. Carceri Galaxy
